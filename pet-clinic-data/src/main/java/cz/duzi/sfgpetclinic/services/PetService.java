@@ -1,5 +1,7 @@
 package cz.duzi.sfgpetclinic.services;
 
+import cz.duzi.sfgpetclinic.model.Pet;
+
 import java.util.Set;
 
 public interface PetService {
