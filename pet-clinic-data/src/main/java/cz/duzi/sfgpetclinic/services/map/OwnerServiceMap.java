@@ -1,11 +1,11 @@
 package cz.duzi.sfgpetclinic.services.map;
 
 import cz.duzi.sfgpetclinic.model.Owner;
-import cz.duzi.sfgpetclinic.services.CrudService;
+import cz.duzi.sfgpetclinic.services.OwnerService;
 
 import java.util.Set;
 
-public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements CrudService<Owner, Long> {
+public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
     @Override
     public Set<Owner> findAll() {
         return super.findAll();
@@ -32,4 +32,9 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
     }
 
 
+    @Override
+    public Owner findByLastName(String lastName) {
+        // TODO: 13.01.2020  
+        return null;
+    }
 }
