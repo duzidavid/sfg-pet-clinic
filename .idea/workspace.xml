@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="277787b4-1a74-4173-af05-1e333ddacd6e" name="Default Changelist" comment="Listing all Owners on Owner Index Page. Closes #14.&quot;">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/cz/duzi/sfgpetclinic/services/SpecialitesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/cz/duzi/sfgpetclinic/services/map/SpecialtiesServiceMap.java" afterDir="false" />
+    <list default="true" id="277787b4-1a74-4173-af05-1e333ddacd6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <list id="185b930f-9eb4-4edc-9bbc-3de5ebd4a2d1" name="not good" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list id="90f02b26-ad72-4e2a-ae94-5410cb8fc54f" name="more" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +19,57 @@
         <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="6" start2="3" end2="4" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="7" end1="7" start2="5" end2="6" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="8" end1="10" start2="7" end2="9" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="22" end1="22" start2="21" end2="22" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="27" end1="27" start2="27" end2="71" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="55" end1="55" start2="99" end2="101" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="67" end1="70" start2="113" end2="120" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="74" end1="74" start2="124" end2="128" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="84" end1="85" start2="138" end2="139" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="97" end1="97" start2="151" end2="234" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="137" end1="137" start2="274" end2="283" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="156" end1="156" start2="302" end2="303" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="170" end1="170" start2="317" end2="322" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="402" end1="403" start2="554" end2="590" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="425" end1="430" start2="612" end2="612" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="450" end1="451" start2="632" end2="638" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="482" end1="483" start2="669" end2="670" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="485" end1="486" start2="672" end2="673" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="489" end1="490" start2="676" end2="677" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="494" end1="495" start2="681" end2="682" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="497" end1="498" start2="684" end2="685" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="499" end1="500" start2="686" end2="687" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="502" end1="503" start2="689" end2="690" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="504" end1="505" start2="691" end2="692" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="507" end1="508" start2="694" end2="695" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="509" end1="510" start2="696" end2="697" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="512" end1="513" start2="699" end2="700" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="514" end1="515" start2="701" end2="702" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="517" end1="518" start2="704" end2="705" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="519" end1="520" start2="706" end2="707" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="522" end1="523" start2="709" end2="710" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="524" end1="525" start2="711" end2="712" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="527" end1="528" start2="714" end2="715" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="529" end1="530" start2="716" end2="717" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="532" end1="533" start2="719" end2="720" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="534" end1="535" start2="721" end2="722" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="542" end1="543" start2="729" end2="730" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="545" end1="546" start2="732" end2="733" changelist="277787b4-1a74-4173-af05-1e333ddacd6e" />
+        <range start1="550" end1="550" start2="737" end2="741" changelist="90f02b26-ad72-4e2a-ae94-5410cb8fc54f" />
+      </ranges>
+    </file>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -53,6 +98,8 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -65,13 +112,21 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\programovani\Spring5\sfg-pet-clinic\pet-clinic-web\src\main\resources\static\resources" />
-      <recent name="C:\programovani\Spring5\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cz.duzi.sfgpetclinic.controllers" />
+      <recent name="cz.duzi.sfgpetclinic.services.springdatajpa" />
+      <recent name="cz.duzi.sfgpetclinic.services.map" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cz.duzi.sfgpetclinic" />
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\programovani\Spring5\sfg-pet-clinic\pet-clinic-web\src\main\resources\static\resources" />
+      <recent name="C:\programovani\Spring5\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\programovani\Spring5\sfg-pet-clinic\pet-clinic-web\src\main\resources" />
@@ -82,7 +137,7 @@
       <recent name="cz.duzi.sfgpetclinic.model" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.OwnerControllerTest.findOwners">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -91,6 +146,89 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.duzi.sfgpetclinic.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.duzi.sfgpetclinic.controllers" />
+      <option name="MAIN_CLASS_NAME" value="cz.duzi.sfgpetclinic.controllers.OwnerControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.findOwners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.duzi.sfgpetclinic.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.duzi.sfgpetclinic.controllers" />
+      <option name="MAIN_CLASS_NAME" value="cz.duzi.sfgpetclinic.controllers.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="findOwners" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.listOwners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.duzi.sfgpetclinic.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.duzi.sfgpetclinic.controllers" />
+      <option name="MAIN_CLASS_NAME" value="cz.duzi.sfgpetclinic.controllers.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="listOwners" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.listOwnersByIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.duzi.sfgpetclinic.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.duzi.sfgpetclinic.controllers" />
+      <option name="MAIN_CLASS_NAME" value="cz.duzi.sfgpetclinic.controllers.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="listOwnersByIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerSDJServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.duzi.sfgpetclinic.services.springdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.duzi.sfgpetclinic.services.springdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="cz.duzi.sfgpetclinic.services.springdatajpa.OwnerSDJServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,6 +273,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OwnerControllerTest.findOwners" />
+        <item itemvalue="JUnit.OwnerControllerTest" />
+        <item itemvalue="JUnit.OwnerControllerTest.listOwnersByIndex" />
+        <item itemvalue="JUnit.OwnerControllerTest.listOwners" />
+        <item itemvalue="JUnit.OwnerSDJServiceTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -154,6 +301,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="277787b4-1a74-4173-af05-1e333ddacd6e" name="Default Changelist" comment="" />
+      <changelist id="90f02b26-ad72-4e2a-ae94-5410cb8fc54f" name="more" comment="" />
       <created>1578416569950</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -168,6 +316,11 @@
       <workItem from="1579109442707" duration="599000" />
       <workItem from="1579167744374" duration="14830000" />
       <workItem from="1579249623542" duration="8137000" />
+      <workItem from="1579765414897" duration="2172000" />
+      <workItem from="1579783045541" duration="77000" />
+      <workItem from="1579783137228" duration="11097000" />
+      <workItem from="1579801040811" duration="242000" />
+      <workItem from="1579850897861" duration="5497000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Add">
       <created>1578417067380</created>
@@ -400,7 +553,42 @@
       <option name="project" value="LOCAL" />
       <updated>1579258577057</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added JUnit tests. Closes #49.">
+      <created>1579791493112</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1579791493112</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added JPA tests for owner service. Closes #50.">
+      <created>1579798004437</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1579798004437</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added MockMVC Tests for OwnerController. Closes #52.">
+      <created>1579854142097</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1579854142097</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Adding CircleCi build file.">
+      <created>1579855196449</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1579855196449</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fixed CircleCi build file.">
+      <created>1579855688919</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1579855688919</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,11 +611,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adding index page and controller. Closes #8." />
-    <MESSAGE value="Adding index page and controller for Vets. Closes #7." />
-    <MESSAGE value="Adding index page and controller for Owners. Closes #13." />
-    <MESSAGE value="Fix Map Services Implementation." />
-    <MESSAGE value="Add bootstrap loader for data. Closes #14." />
     <MESSAGE value="Adding Spring config. Closes #22." />
     <MESSAGE value="Listing all Owners on Owner Index Page. Closes #14." />
     <MESSAGE value="Revert &quot;Listing all Owners on Owner Index Page. Closes #14.&quot;&#10;&#10;This reverts commit e2d2f6d9" />
@@ -448,7 +631,12 @@
     <MESSAGE value="Added PetTypeServiceMap. Closes #29." />
     <MESSAGE value="Added PetType to bootstrap. Closes #32." />
     <MESSAGE value="Added Pets and Contact to owners on startup. Closes #33." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Pets and Contact to owners on startup. Closes #33." />
+    <MESSAGE value="Added JUnit tests. Closes #49." />
+    <MESSAGE value="Added JPA tests for owner service. Closes #50." />
+    <MESSAGE value="Added MockMVC Tests for OwnerController. Closes #52." />
+    <MESSAGE value="Adding CircleCi build file." />
+    <MESSAGE value="fixed CircleCi build file." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed CircleCi build file." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -480,59 +668,59 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1010" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1578855519360" />
-    <state x="523" y="140" key="CommitChangelistDialog2" timestamp="1579854140119">
+    <state x="523" y="140" key="CommitChangelistDialog2" timestamp="1579855687943">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="523" y="140" key="CommitChangelistDialog2/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579854140119" />
+    <state x="523" y="140" key="CommitChangelistDialog2/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579855687943" />
     <state x="199" y="105" key="DiffContextDialog" timestamp="1579791443198">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="199" y="105" key="DiffContextDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579190701242" />
+    <state x="199" y="105" key="DiffContextDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579791443198" />
     <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1579177035003">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579177035003" />
-    <state width="1686" height="341" key="GridCell.Tab.0.bottom" timestamp="1579258478087">
+    <state width="2516" height="179" key="GridCell.Tab.0.bottom" timestamp="1579853429857">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478087" />
+    <state width="2516" height="179" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579853429857" />
     <state width="2517" height="229" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947784" />
-    <state width="1686" height="341" key="GridCell.Tab.0.center" timestamp="1579258478087">
+    <state width="2516" height="179" key="GridCell.Tab.0.center" timestamp="1579853429857">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478087" />
+    <state width="2516" height="179" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579853429857" />
     <state width="2517" height="229" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947784" />
-    <state width="1686" height="341" key="GridCell.Tab.0.left" timestamp="1579258478087">
+    <state width="2516" height="179" key="GridCell.Tab.0.left" timestamp="1579853429857">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478087" />
+    <state width="2516" height="179" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579853429857" />
     <state width="2517" height="229" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947784" />
-    <state width="1686" height="341" key="GridCell.Tab.0.right" timestamp="1579258478087">
+    <state width="2516" height="179" key="GridCell.Tab.0.right" timestamp="1579853429857">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478087" />
+    <state width="2516" height="179" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579853429857" />
     <state width="2517" height="229" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947784" />
-    <state width="1686" height="341" key="GridCell.Tab.1.bottom" timestamp="1579258478088">
+    <state width="2516" height="333" key="GridCell.Tab.1.bottom" timestamp="1579798149884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.1.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478088" />
+    <state width="2516" height="333" key="GridCell.Tab.1.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579798149884" />
     <state width="2517" height="229" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947785" />
-    <state width="1686" height="341" key="GridCell.Tab.1.center" timestamp="1579258478088">
+    <state width="2516" height="333" key="GridCell.Tab.1.center" timestamp="1579798149884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.1.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478088" />
+    <state width="2516" height="333" key="GridCell.Tab.1.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579798149884" />
     <state width="2517" height="229" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947785" />
-    <state width="1686" height="341" key="GridCell.Tab.1.left" timestamp="1579258478088">
+    <state width="2516" height="333" key="GridCell.Tab.1.left" timestamp="1579798149884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.1.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478088" />
+    <state width="2516" height="333" key="GridCell.Tab.1.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579798149884" />
     <state width="2517" height="229" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947785" />
-    <state width="1686" height="341" key="GridCell.Tab.1.right" timestamp="1579258478088">
+    <state width="2516" height="333" key="GridCell.Tab.1.right" timestamp="1579798149884">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1686" height="341" key="GridCell.Tab.1.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579258478088" />
+    <state width="2516" height="333" key="GridCell.Tab.1.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579798149884" />
     <state width="2517" height="229" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1579030947785" />
-    <state x="638" y="244" key="RollbackChangesDialog" timestamp="1579014721607">
+    <state x="638" y="244" key="RollbackChangesDialog" timestamp="1579791446791">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="638" y="244" key="RollbackChangesDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579791446791" />
@@ -540,10 +728,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1612" y="456" key="VCS.ChangelistChooser/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579854082662" />
-    <state x="941" y="199" key="Vcs.Push.Dialog.v2" timestamp="1579854146291">
+    <state x="941" y="199" key="Vcs.Push.Dialog.v2" timestamp="1579855691420">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="941" y="199" key="Vcs.Push.Dialog.v2/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579854146291" />
+    <state x="941" y="199" key="Vcs.Push.Dialog.v2/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1579855691420" />
     <state x="1089" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578853067067">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
